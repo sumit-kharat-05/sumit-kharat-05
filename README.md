@@ -1,83 +1,242 @@
-<h1 align="center">Hi 👋, I'm Sumit Kharat</h1>
+<!-- ===================== HERO SECTION ===================== -->
 
-<h3 align="center">Aspiring Software Developer | C++ | DSA | Full Stack Development</h3>
+<div align="center">
 
-<p align="center">
-  Building projects, solving problems, and continuously improving my programming skills.
-</p>
+# 👋 Hi, I'm Sumit Kharat
+
+### 🚀 Aspiring Software Developer | DSA | Full Stack Development
+
+Building projects, solving problems, and turning ideas into reality through code.
+
+<a href="https://www.linkedin.com/in/sumit-kharat-b01441319">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
 
 ---
+
+<!-- ===================== ABOUT ME ===================== -->
 
 ## 👨‍💻 About Me
 
-* 🎓 I'm a student working toward becoming a software developer.
-* 💻 I have learned HTML, CSS, Tailwind CSS , Bootstrap , JavaScript & TypeScript.
-* 🧠 I'm currently learning Data Structures and Algorithms using C++.
-* 🌱 I'm improving my problem-solving and programming skills.
-* 🚀 My goal is to build practical projects and prepare for software development placements.
-* 🤝 I'm interested in collaborating on beginner-friendly open-source projects.
+```javascript
+const sumit = {
+    role: "Aspiring Software Developer",
+    languages: ["C++", "JavaScript", "TypeScript", "Java", "SQL"],
+    frontend: ["HTML5", "CSS3", "Tailwind CSS", "Bootstrap"],
+    currentlyLearning: [
+        "Data Structures & Algorithms",
+        "Full Stack Development",
+        "Problem Solving"
+    ],
+    interests: [
+        "Web Development",
+        "Software Engineering",
+        "Open Source"
+    ],
+    goal: "Build impactful projects and become a skilled software developer"
+};
+```
+
+* 🎓 Student passionate about software development and technology.
+* 💻 Learning programming, web development, and problem-solving.
+* 🧠 Practicing Data Structures and Algorithms using C++.
+* 🌱 Exploring modern development tools and technologies.
+* 🚀 Focused on building practical projects and preparing for software development placements.
+* 🤝 Interested in learning from developers and contributing to open source.
 
 ---
 
-## 🛠️ Languages and Technologies
+<!-- ===================== TECH STACK ===================== -->
 
-## 🛠️ Languages and Technologies
+## 🛠️ Languages & Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React JS" />
-  <img src="https://img.shields.io/badge/Vue_JS-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue JS" />
-  <img src="https://img.shields.io/badge/Angular_JS-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular JS" />
-  <img src="https://img.shields.io/badge/Express_JS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express JS" />
-  <img src="https://img.shields.io/badge/Node_JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazondocumentdb&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Shell Scripting" />
-  <img src="https://img.shields.io/badge/Next_JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+### 🌐 Frontend Development
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" height="55" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" height="55" alt="CSS3"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="55" alt="Tailwind CSS"/>
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="55" alt="Bootstrap"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" height="55" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=typescript" height="55" alt="TypeScript"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" height="55" alt="React"/>
+  </a>
+  <a href="https://vuejs.org/">
+    <img src="https://skillicons.dev/icons?i=vue" height="55" alt="Vue.js"/>
+  </a>
+  <a href="https://angular.dev/">
+    <img src="https://skillicons.dev/icons?i=angular" height="55" alt="Angular"/>
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="55" alt="Next.js"/>
+  </a>
 </p>
 
+### ⚙️ Backend Development
+
+<p align="left">
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="55" alt="Node.js"/>
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" height="55" alt="Express.js"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://skillicons.dev/icons?i=spring" height="55" alt="Spring Boot"/>
+  </a>
+</p>
+
+### 💻 Programming Languages
+
+<p align="left">
+  <a href="https://isocpp.org/">
+    <img src="https://skillicons.dev/icons?i=cpp" height="55" alt="C++"/>
+  </a>
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" height="55" alt="Java"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=typescript" height="55" alt="TypeScript"/>
+  </a>
+</p>
+
+### 🗄️ Databases & APIs
+
+<p align="left">
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="MySQL"/>
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" height="55" alt="PostgreSQL"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="MongoDB"/>
+  </a>
+  <a href="https://www.sqlite.org/">
+    <img src="https://skillicons.dev/icons?i=sqlite" height="55" alt="SQL"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="left">
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" height="55" alt="Git"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub"/>
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" height="55" alt="Linux"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://skillicons.dev/icons?i=bash" height="55" alt="Bash / Shell Scripting"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="Visual Studio Code"/>
+  </a>
+</p>
 
 ---
+
+<!-- ===================== LEARNING ===================== -->
 
 ## 📚 Currently Learning
 
-* Data Structures and Algorithms (C++)
-* Problem-solving techniques
-* Full Stack Development
-* Git and GitHub workflows
+* 🧠 Data Structures and Algorithms using C++.
+* 🧩 Problem-solving and algorithmic thinking.
+* 🌐 Full Stack Development.
+* 🔧 Git, GitHub, and collaborative development.
 
 ---
 
-## 🎯 My Goals
+<!-- ===================== GOALS ===================== -->
 
-* Solve DSA problems consistently.
-* Build meaningful projects using HTML, CSS, and JavaScript.
-* Develop a strong understanding of software development fundamentals.
-* Contribute to open-source projects.
-* Prepare for software development placements.
+## 🎯 Goals for My Developer Journey
 
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: [Add your LinkedIn profile link here](https://www.linkedin.com/in/sumit-kharat-b01441319)
-* 🌐 Portfolio: Coming soon!
+* [ ] Strengthen DSA and problem-solving skills.
+* [ ] Build and deploy practical web development projects.
+* [ ] Develop a strong understanding of full stack development.
+* [ ] Improve code quality and software development practices.
+* [ ] Contribute to open-source projects.
+* [ ] Prepare for software development placements.
 
 ---
 
-<p align="center">
-  <i>Learning every day. Building step by step. Improving with every project. 🚀</i>
-</p>
+<!-- ===================== GITHUB STATISTICS ===================== -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+</a>
+
+<a href="https://github.com/">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sumit-kharat-b01441319">
+  <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Kharat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+</a>
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Consistency beats perfection. Keep learning, keep building."
+
+⭐ Thanks for visiting my profile!
+
+</div>
+
 

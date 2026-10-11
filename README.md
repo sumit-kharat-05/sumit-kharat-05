@@ -197,15 +197,17 @@ I'm a student passionate about programming, web development, and building practi
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+<a href="https://github.com/sumit-kharat-05">
+  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api?username=sumit-kharat-05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Sumit's GitHub Statistics"/>
 </a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+<a href="https://github.com/sumit-kharat-05">
+  <img width="49%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit-kharat-05&layout=compact&theme=tokyonight&hide_border=true" alt="Sumit's Most Used Languages"/>
 </a>
 
 </div>
+
+---
+
 
 ---
 

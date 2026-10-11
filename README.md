@@ -1,253 +1,266 @@
 <!-- ===================================================== -->
-<!--  SUMIT KHARAT — PROFILE README (v3, professional)      -->
-<!--  Replace every YOUR_* / REPO_* placeholder.            -->
+
+<!--                    HERO SECTION                       -->
+
 <!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="assets/header.svg" alt="Sumit Kharat, Software Developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=SUMIT%20KHARAT&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20DSA%20%7C%20Full%20Stack%20Development&descSize=15&descAlignY=60&animation=fadeIn" alt="Sumit Kharat GitHub Profile Header"/>
 
-<a href="https://www.linkedin.com/in/sumit-kharat-b01441319"><img src="https://img.shields.io/badge/LinkedIn-Connect-2C5364?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F2027" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-2C5364?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027" alt="Email"/></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F2027" alt="Portfolio"/></a>
-<a href="https://YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-2C5364?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0F2027" alt="Resume"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-Profile-2C5364?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0F2027" alt="LeetCode"/></a>
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Projects+%F0%9F%9A%80;Learning+Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Exploring+Full+Stack+Development+%F0%9F%8C%90;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Animated introduction"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/sumit-kharat-b01441319">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                    ABOUT ME                           -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+
+### Hello, World! I'm Sumit Kharat 👋
+
+**Aspiring Software Developer | Problem Solver | Tech Enthusiast**
+
+I'm a student passionate about programming, web development, and building practical solutions through technology.
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🚀 What I'm Working On
+
+* 🧠 Strengthening my Data Structures and Algorithms skills using C++.
+* 🌐 Exploring modern web development technologies.
+* 💻 Building practical projects to improve my development skills.
+* 🔧 Learning Git, GitHub, and collaborative workflows.
+* 🎯 Preparing for software development placements.
+
+### 💡 My Interests
+
+* Software Development
+* Full Stack Web Development
+* Data Structures and Algorithms
+* Problem Solving
+* Open Source Collaboration
+
+</td>
+
+<td width="40%" valign="top" align="center">
+
+<h3>⚡ Quick Introduction</h3>
+
+<img src="https://img.shields.io/badge/NAME-Sumit%20Kharat-0A66C2?style=for-the-badge" alt="Name: Sumit Kharat"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ROLE-Aspiring%20Developer-2C5364?style=for-the-badge" alt="Role: Aspiring Developer"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-DSA%20%26%20Web%20Development-6A5ACD?style=for-the-badge" alt="Focus: DSA and Web Development"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LANGUAGES-C%2B%2B%20%7C%20JavaScript%20%7C%20TypeScript-239120?style=for-the-badge" alt="C++, JavaScript, TypeScript"/>
+
+<br/><br/>
+
+<h3>🎯 My Mindset</h3>
+
+**Learn · Build · Improve 🚀**
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                 TECHNOLOGY STACK                      -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">🛠️ Languages & Technologies</h2>
+
+<p align="center">
+  Technologies I'm exploring and using in my software development journey.
+</p>
+
+<h3 align="center">🎨 Frontend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,react,vue,angular,nextjs&perline=5" alt="HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, React, Vue, Angular and Next.js"/>
+</p>
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=5" alt="Node.js, Express.js and Spring Boot"/>
+</p>
+
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript&perline=4" alt="C++, Java, JavaScript and TypeScript"/>
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=4" alt="MongoDB, MySQL, PostgreSQL and SQLite"/>
+</p>
+
+<h3 align="center">🔌 APIs</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+</p>
+
+<h3 align="center">🔧 Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode&perline=5" alt="Git, GitHub, Linux, Bash and VS Code"/>
+</p>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                  CURRENTLY LEARNING                   -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">📚 Currently Learning</h2>
+
+<div align="center">
+
+|      Area      | Current Focus                            |
+| :------------: | :--------------------------------------- |
+|     🧠 DSA     | Data Structures and Algorithms using C++ |
+| 💻 Programming | Problem-solving and algorithmic thinking |
+| 🌐 Development | Full Stack Web Development               |
+|    🔧 Tools    | Git, GitHub and collaborative workflows  |
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                     MY GOALS                          -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">🎯 Goals for My Developer Journey</h2>
+
+* [ ] Strengthen DSA and problem-solving skills.
+* [ ] Build and deploy practical web development projects.
+* [ ] Develop a strong understanding of full stack development.
+* [ ] Improve code quality and software development practices.
+* [ ] Contribute to open-source projects.
+* [ ] Prepare for software development placements.
+
+---
+
+<!-- ===================================================== -->
+
+<!--                 GITHUB STATISTICS                     -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                 CONTRIBUTION STREAK                   -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                  CONNECT WITH ME                      -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<div align="center">
+
+<p>
+I'm always interested in learning, building projects, and connecting with fellow developers.
+</p>
+
+<a href="https://www.linkedin.com/in/sumit-kharat-b01441319">
+  <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Kharat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+</a>
+
+<br/><br/>
+
+### 💬 Interested In
+
+🤝 Collaboration   •   💻 Projects   •   🌱 Learning Opportunities
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2C5364&label=PROFILE+VIEWS" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&logo=github&color=2C5364" alt="Followers"/>
+*Building my future, one line of code at a time.* 🚀
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer" alt="Decorative footer"/>
+
+### ⭐ Thanks for Visiting My Profile!
 
 </div>
-
----
-
-## About Me
-
-I'm a computer science student and aspiring software engineer who builds end-to-end systems: backend services, data and ML pipelines, and the interfaces that make them usable. I care about clean APIs, solid fundamentals, and shipping work that holds up under real constraints, which is what hackathons have taught me best.
-
-I'm currently preparing for software engineering roles through campus placements, with a focus on data structures and algorithms, JavaScript/TypeScript, and full stack development.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Professional Snapshot**
-
-| | |
-| :-- | :-- |
-| **Focus** | Full Stack · Backend · Applied ML |
-| **Core languages** | TypeScript, JavaScript, C++, Python |
-| **Location** | India |
-| **Status** | Open to SDE / Full Stack / Backend roles |
-| **Current project** | MuleShield India |
-
-</td>
-<td width="50%" valign="top">
-
-**Currently**
-
-| | |
-| :-- | :-- |
-| **Building** | Fraud-network detection platform (Smart India Hackathon) |
-| **Studying** | DSA via Striver's A2Z sheet, system design basics |
-| **Strengthening** | JavaScript/TypeScript internals and CS fundamentals |
-| **Next** | Deployed full stack projects with CI/CD |
-
-</td>
-</tr>
-</table>
-
----
-
-## Featured Project
-
-### MuleShield India
-**AI-powered financial mule network detection** · Smart India Hackathon, FinTech track
-
-Money mules move illicit funds through chains of ordinary-looking accounts, so per-transaction rules often miss them. MuleShield models accounts and transfers as a graph, scores behaviour with machine learning, and surfaces entire mule rings for investigators.
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-| Capability | Detail |
-| :-- | :-- |
-| **Graph analysis** | Detects layered transfer chains and clusters |
-| **ML pipeline** | Account-level risk scoring |
-| **Backend** | FastAPI with PostgreSQL |
-| **Reporting** | Automated PDF reports for investigators |
-| **Dashboard** | React, TypeScript and Cytoscape.js network view (in progress) |
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,react,ts&theme=dark" alt="MuleShield stack"/>
-</p>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_MULESHIELD_REPO"><img src="https://img.shields.io/badge/View_Repository-203A43?style=for-the-badge&logo=github&logoColor=white" alt="Repository"/></a>
-
-</td>
-<td width="45%" valign="top">
-
-```mermaid
-flowchart LR
-  A[Transactions] --> B[FastAPI<br/>Ingestion]
-  B --> C[(PostgreSQL)]
-  C --> D[Graph<br/>Builder]
-  D --> E[ML Risk<br/>Scoring]
-  E --> F[Mule Ring<br/>Detection]
-  F --> G[Dashboard]
-  F --> H[PDF Reports]
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## Technical Skills
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,ts,js,py,java&theme=dark" alt="Languages"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="Frontend"/>
-
-**Backend and APIs**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend"/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" alt="Databases"/>
-
-**Tools and Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode&theme=dark" alt="Tools"/>
-
-</div>
-
-> Keep only what you can confidently discuss in an interview. A shorter, accurate list reads better than a long one.
-
----
-
-## Selected Repositories
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_1&theme=tokyonight&hide_border=true" alt="REPO_1"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_2&theme=tokyonight&hide_border=true" alt="REPO_2"/></a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_3&theme=tokyonight&hide_border=true" alt="REPO_3"/></a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_4&theme=tokyonight&hide_border=true" alt="REPO_4"/></a>
-
-</div>
-
----
-
-## Roadmap
-
-| Area | Focus | Status |
-| :-- | :-- | :-- |
-| **Data Structures and Algorithms** | Striver's A2Z sheet in C++ | In progress |
-| **Full Stack Development** | React, Node.js and TypeScript, end to end | In progress |
-| **Applied ML and Graphs** | Fraud detection, graph analytics | In progress |
-| **System Design** | Fundamentals, caching, scaling | Starting |
-| **DevOps** | Docker, CI/CD with GitHub Actions | Starting |
-
-**Goals**
-
-- [x] Build an end-to-end, hackathon-grade project (MuleShield)
-- [ ] Complete Striver's A2Z DSA sheet
-- [ ] Ship the React and Cytoscape.js dashboard for MuleShield
-- [ ] Deploy two full stack projects with CI/CD
-- [ ] Make a first open-source contribution
-- [ ] Secure a software engineering role through campus placements
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
-
-<img width="100%" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Contribution graph"/>
-
-</div>
-
----
-
-## Competitive Programming and Achievements
-
-| | |
-| :-- | :-- |
-| **Smart India Hackathon** | FinTech track, MuleShield India |
-| **Hackathon results** | Add wins, ranks or finalist status |
-| **Coding profiles** | Add LeetCode / CodeChef rating |
-| **Certifications** | Add relevant certifications |
-
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" height="200" alt="LeetCode stats"/>
-</div>
-
----
-
-## Learning in Public
-
-I keep structured, topic-by-topic notes on JavaScript and TypeScript, each with a short theory summary and a real-world example. I plan to publish them as a repository: `js-ts-placement-notes` (link once pushed).
-
----
-
-## Contact
-
-<div align="center">
-
-Open to software engineering roles, hackathon teams and open-source collaboration.
-
-<a href="https://www.linkedin.com/in/sumit-kharat-b01441319"><img src="https://img.shields.io/badge/LinkedIn-Connect-2C5364?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F2027" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-2C5364?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027" alt="Email"/></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F2027" alt="Portfolio"/></a>
-
-<img width="100%" src="assets/footer.svg" alt="Open to software engineering roles"/>
-
-</div>
-
-<!--
-================ SETUP NOTES (delete before publishing) ================
-1. Put the assets/ folder (header.svg, footer.svg) in the repo next to README.md.
-   Repo must be named exactly YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME; save this as README.md.
-2. Replace: YOUR_GITHUB_USERNAME, YOUR_EMAIL, YOUR_PORTFOLIO_URL, YOUR_RESUME_LINK,
-   YOUR_LEETCODE_USERNAME, YOUR_MULESHIELD_REPO, REPO_1..REPO_4.
-3. Contribution graph: add .github/workflows/snake.yml
-
-   name: Generate Snake
-   on:
-     schedule: [{ cron: "0 0 * * *" }]
-     workflow_dispatch:
-     push: { branches: [main] }
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       permissions: { contents: write }
-       steps:
-         - uses: Platane/snk/svg-only@v3
-           with:
-             github_user_name: ${{ github.repository_owner }}
-             outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/github-pages-deploy-action@v4
-           with:
-             branch: output
-             folder: dist
-
-   If you skip this, delete the snake image line.
-4. Stat cards sometimes rate-limit; self-host github-readme-stats on Vercel if they error.
-=========================================================================
--->

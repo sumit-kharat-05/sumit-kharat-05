@@ -1,6 +1,37 @@
 <!-- ===================================================== -->
 
-<!--                       ABOUT ME                        -->
+<!--                    HERO SECTION                       -->
+
+<!-- ===================================================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C5364&text=SUMIT%20KHARAT&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20DSA%20%7C%20Full%20Stack%20Development&descSize=15&descAlignY=60&animation=fadeIn" alt="Sumit Kharat GitHub Profile Header"/>
+
+<a href="https://readme-typing-svg.demolab.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Projects+%F0%9F%9A%80;Learning+Data+Structures+%26+Algorithms+%F0%9F%A7%A0;Exploring+Full+Stack+Development+%F0%9F%8C%90;Turning+Ideas+Into+Code+%E2%9C%A8" alt="Animated introduction"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/sumit-kharat-b01441319">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                    ABOUT ME                           -->
 
 <!-- ===================================================== -->
 
@@ -8,109 +39,132 @@
 
 <div align="center">
 
-<h3>Hi, I'm Sumit Kharat 👋</h3>
+### Hello, World! I'm Sumit Kharat 👋
 
-<p><strong>Aspiring Software Developer | Problem Solver | Tech Enthusiast</strong></p>
+**Aspiring Software Developer | Problem Solver | Tech Enthusiast**
 
-<p>
-Passionate about programming, web development, and solving problems through technology.
-I'm continuously learning, building projects, and improving my development skills.
-</p>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,git,github&theme=dark" alt="Programming and Development Tools"/>
-
-<br/><br/>
+I'm a student passionate about programming, web development, and building practical solutions through technology.
 
 </div>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-<h3>🚀 What I'm Working On</h3>
-
-🧠 Learning DSA with C++ <br/>
-🌐 Exploring Web Development <br/>
-💻 Building Practical Projects <br/>
-🔧 Improving Git & GitHub Skills <br/>
-🎯 Preparing for Software Placements
-
-</td>
-<td align="center" width="50%">
-
-<h3>💡 Areas of Interest</h3>
-
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nodejs&perline=3&theme=dark" alt="Areas of Interest"/>
-
-<br/><br/>
-
-**Software Development**
-**Full Stack Development**
-**Data Structures & Algorithms**
-**Problem Solving**
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ===================================================== -->
-
-<!--                  QUICK INTRODUCTION                   -->
-
-<!-- ===================================================== -->
-
-<h2 align="center">⚡ Quick Introduction</h2>
-
-<div align="center">
 
 <table>
 <tr>
-<td align="center" width="150">
+<td width="60%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" alt="GitHub"/>
+### 🚀 What I'm Working On
 
-<br/><strong>PROFILE</strong>
+* 🧠 Strengthening my Data Structures and Algorithms skills using C++.
+* 🌐 Exploring modern web development technologies.
+* 💻 Building practical projects to improve my development skills.
+* 🔧 Learning Git, GitHub, and collaborative workflows.
+* 🎯 Preparing for software development placements.
 
-<br/>Sumit Kharat
+### 💡 My Interests
 
-</td>
-<td align="center" width="150">
-
-<img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="50" alt="C++"/>
-
-<br/><strong>DSA</strong>
-
-<br/>C++
-
-</td>
-<td align="center" width="150">
-
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend Development"/>
-
-<br/><strong>FRONTEND</strong>
-
-<br/>Web Development
+* Software Development
+* Full Stack Web Development
+* Data Structures and Algorithms
+* Problem Solving
+* Open Source Collaboration
 
 </td>
-<td align="center" width="150">
 
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50" alt="TypeScript"/>
+<td width="40%" valign="top" align="center">
 
-<br/><strong>LEARNING</strong>
+<h3>⚡ Quick Introduction</h3>
 
-<br/>TypeScript
+<img src="https://img.shields.io/badge/NAME-Sumit%20Kharat-0A66C2?style=for-the-badge" alt="Name: Sumit Kharat"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ROLE-Aspiring%20Developer-2C5364?style=for-the-badge" alt="Role: Aspiring Developer"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-DSA%20%26%20Web%20Development-6A5ACD?style=for-the-badge" alt="Focus: DSA and Web Development"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LANGUAGES-C%2B%2B%20%7C%20JavaScript%20%7C%20TypeScript-239120?style=for-the-badge" alt="C++, JavaScript, TypeScript"/>
+
+<br/><br/>
+
+<h3>🎯 My Mindset</h3>
+
+**Learn · Build · Improve 🚀**
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<img src="https://img.shields.io/badge/MINDSET-Learn%20%7C%20Build%20%7C%20Improve-203A43?style=for-the-badge&logo=rocket&logoColor=white" alt="Learn, Build, Improve"/>
+<!-- ===================================================== -->
+
+<!--                 TECHNOLOGY STACK                      -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">🛠️ Languages & Technologies</h2>
+
+<p align="center">
+  Technologies I'm exploring and using in my software development journey.
+</p>
+
+<h3 align="center">🎨 Frontend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,typescript,react,vue,angular,nextjs&perline=5" alt="HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, React, Vue, Angular and Next.js"/>
+</p>
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring&perline=5" alt="Node.js, Express.js and Spring Boot"/>
+</p>
+
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,javascript,typescript&perline=4" alt="C++, Java, JavaScript and TypeScript"/>
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite&perline=4" alt="MongoDB, MySQL, PostgreSQL and SQLite"/>
+</p>
+
+<h3 align="center">🔌 APIs</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+</p>
+
+<h3 align="center">🔧 Tools & Platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode&perline=5" alt="Git, GitHub, Linux, Bash and VS Code"/>
+</p>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                  CURRENTLY LEARNING                   -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">📚 Currently Learning</h2>
+
+<div align="center">
+
+|      Area      | Current Focus                            |
+| :------------: | :--------------------------------------- |
+|     🧠 DSA     | Data Structures and Algorithms using C++ |
+| 💻 Programming | Problem-solving and algorithmic thinking |
+| 🌐 Development | Full Stack Web Development               |
+|    🔧 Tools    | Git, GitHub and collaborative workflows  |
 
 </div>
 
@@ -118,7 +172,62 @@ I'm continuously learning, building projects, and improving my development skill
 
 <!-- ===================================================== -->
 
-<!--                   CONNECT WITH ME                     -->
+<!--                     MY GOALS                          -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">🎯 Goals for My Developer Journey</h2>
+
+* [ ] Strengthen DSA and problem-solving skills.
+* [ ] Build and deploy practical web development projects.
+* [ ] Develop a strong understanding of full stack development.
+* [ ] Improve code quality and software development practices.
+* [ ] Contribute to open-source projects.
+* [ ] Prepare for software development placements.
+
+---
+
+<!-- ===================================================== -->
+
+<!--                 GITHUB STATISTICS                     -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</a>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                 CONTRIBUTION STREAK                   -->
+
+<!-- ===================================================== -->
+
+<h2 align="center">🔥 Contribution Streak</h2>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+<!-- ===================================================== -->
+
+<!--                  CONNECT WITH ME                      -->
 
 <!-- ===================================================== -->
 
@@ -127,43 +236,31 @@ I'm continuously learning, building projects, and improving my development skill
 <div align="center">
 
 <p>
-Let's connect, collaborate, share ideas, and grow together as developers!
+I'm always interested in learning, building projects, and connecting with fellow developers.
 </p>
 
-<a href="https://github.com/sumit-kharat-05">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="65" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sumit-kharat-b01441319">
-<img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="65" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Sumit%20Kharat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/sumit-kharat-05">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore My GitHub Projects"/>
-</a>
+### 💬 Interested In
 
-<a href="https://www.linkedin.com/in/sumit-kharat-b01441319">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
+🤝 Collaboration   •   💻 Projects   •   🌱 Learning Opportunities
 
-<br/><br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=github,linkedin,git,vscode&theme=dark" alt="Connect and Development Tools"/>
+*Building my future, one line of code at a time.* 🚀
 
-<br/><br/>
+<br/>
 
-<strong>🤝 Collaboration   •   💻 Projects   •   🌱 Learning</strong>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer" alt="Decorative footer"/>
 
-<br/><br/>
-
-<i>Building my future, one line of code at a time. 🚀</i>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer" alt="Profile Footer"/>
-
-<h3>⭐ Thanks for Visiting My Profile!</h3>
+### ⭐ Thanks for Visiting My Profile!
 
 </div>

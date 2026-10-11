@@ -5,13 +5,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F2027,50:203A43,100:2C5364&text=Sumit%20Kharat&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Full%20Stack%20%C2%B7%20Applied%20ML%20%C2%B7%20Data%20Structures%20%26%20Algorithms&descSize=16&descAlignY=58" alt="Sumit Kharat"/>
+<img width="100%" src="assets/header.svg" alt="Sumit Kharat, Software Developer"/>
 
-<a href="https://www.linkedin.com/in/sumit-kharat-b01441319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-203A43?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-203A43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<a href="https://YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-203A43?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-203A43?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="https://www.linkedin.com/in/sumit-kharat-b01441319"><img src="https://img.shields.io/badge/LinkedIn-Connect-2C5364?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F2027" alt="LinkedIn"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-2C5364?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027" alt="Email"/></a>
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F2027" alt="Portfolio"/></a>
+<a href="https://YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Resume-Download-2C5364?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0F2027" alt="Resume"/></a>
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-Profile-2C5364?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0F2027" alt="LeetCode"/></a>
 
 <br/>
 
@@ -212,17 +212,18 @@ I keep structured, topic-by-topic notes on JavaScript and TypeScript, each with 
 
 Open to software engineering roles, hackathon teams and open-source collaboration.
 
-<a href="https://www.linkedin.com/in/sumit-kharat-b01441319"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-203A43?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-203A43?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/sumit-kharat-b01441319"><img src="https://img.shields.io/badge/LinkedIn-Connect-2C5364?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F2027" alt="LinkedIn"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact-2C5364?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027" alt="Email"/></a>
+<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F2027" alt="Portfolio"/></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer" alt=""/>
+<img width="100%" src="assets/footer.svg" alt="Open to software engineering roles"/>
 
 </div>
 
 <!--
 ================ SETUP NOTES (delete before publishing) ================
-1. Repo must be named exactly YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME; save this as README.md.
+1. Put the assets/ folder (header.svg, footer.svg) in the repo next to README.md.
+   Repo must be named exactly YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME; save this as README.md.
 2. Replace: YOUR_GITHUB_USERNAME, YOUR_EMAIL, YOUR_PORTFOLIO_URL, YOUR_RESUME_LINK,
    YOUR_LEETCODE_USERNAME, YOUR_MULESHIELD_REPO, REPO_1..REPO_4.
 3. Contribution graph: add .github/workflows/snake.yml

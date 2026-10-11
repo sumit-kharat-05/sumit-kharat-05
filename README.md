@@ -53,7 +53,7 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [Add your LinkedIn profile link here](https://www.linkedin.com/)
+* 💼 LinkedIn: [Add your LinkedIn profile link here](https://www.linkedin.com/in/sumit-kharat-b01441319)
 * 🌐 Portfolio: Coming soon!
 
 ---
